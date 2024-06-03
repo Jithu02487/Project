@@ -1,0 +1,196 @@
+[23-Jan-2024 10:26:28 UTC] PHP Warning:  require_once(..\..\connection\connection.php): failed to open stream: No such file or directory in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/sechome.php on line 2
+[23-Jan-2024 10:26:28 UTC] PHP Fatal error:  require_once(): Failed opening required '..\..\connection\connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/sechome.php on line 2
+[23-Jan-2024 10:29:00 UTC] PHP Notice:  Undefined index: sid in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/ssession.php on line 3
+[23-Jan-2024 10:29:25 UTC] PHP Notice:  Undefined index: sid in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/ssession.php on line 3
+[23-Jan-2024 10:30:28 UTC] PHP Notice:  Undefined index: sid in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/ssession.php on line 3
+[31-Jan-2024 06:51:34 UTC] PHP Warning:  require_once(..\..\connection\connection.php): failed to open stream: No such file or directory in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/chooseagency.php on line 2
+[31-Jan-2024 06:51:34 UTC] PHP Fatal error:  require_once(): Failed opening required '..\..\connection\connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/chooseagency.php on line 2
+[31-Jan-2024 06:52:59 UTC] PHP Warning:  require_once(..\..\connection\connection.php): failed to open stream: No such file or directory in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/choosedagency.php on line 2
+[31-Jan-2024 06:52:59 UTC] PHP Fatal error:  require_once(): Failed opening required '..\..\connection\connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/choosedagency.php on line 2
+[31-Jan-2024 06:54:08 UTC] PHP Warning:  require_once(..\..\connection\connection.php): failed to open stream: No such file or directory in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 2
+[31-Jan-2024 06:54:08 UTC] PHP Fatal error:  require_once(): Failed opening required '..\..\connection\connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 2
+[31-Jan-2024 07:53:52 UTC] PHP Warning:  require_once(..\..\connection\connection.php): failed to open stream: No such file or directory in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 2
+[31-Jan-2024 07:53:52 UTC] PHP Fatal error:  require_once(): Failed opening required '..\..\connection\connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 2
+[31-Jan-2024 07:55:32 UTC] PHP Warning:  require_once(..\..\connection\connection.php): failed to open stream: No such file or directory in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 2
+[31-Jan-2024 07:55:32 UTC] PHP Fatal error:  require_once(): Failed opening required '..\..\connection\connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 2
+[31-Jan-2024 07:55:35 UTC] PHP Warning:  require_once(..\..\connection\connection.php): failed to open stream: No such file or directory in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 2
+[31-Jan-2024 07:55:35 UTC] PHP Fatal error:  require_once(): Failed opening required '..\..\connection\connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 2
+[10-Feb-2024 18:56:03 UTC] PHP Notice:  Undefined index: sid in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/ssession.php on line 3
+[20-Feb-2024 21:26:42 UTC] PHP Notice:  Undefined index: sid in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/ssession.php on line 3
+[07-Mar-2024 06:20:52 UTC] PHP Notice:  Undefined variable: name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[07-Mar-2024 06:20:52 UTC] PHP Notice:  Undefined variable: lname in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[07-Mar-2024 06:20:52 UTC] PHP Notice:  Undefined variable: desig in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 167
+[07-Mar-2024 06:20:52 UTC] PHP Notice:  Undefined variable: ut in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 171
+[07-Mar-2024 06:20:52 UTC] PHP Notice:  Undefined variable: phn in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 179
+[07-Mar-2024 06:20:52 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 183
+[07-Mar-2024 06:20:52 UTC] PHP Notice:  Undefined variable: agency in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 187
+[07-Mar-2024 10:07:36 UTC] PHP Notice:  Undefined variable: name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[07-Mar-2024 10:07:36 UTC] PHP Notice:  Undefined variable: lname in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[07-Mar-2024 10:07:36 UTC] PHP Notice:  Undefined variable: desig in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 167
+[07-Mar-2024 10:07:36 UTC] PHP Notice:  Undefined variable: ut in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 171
+[07-Mar-2024 10:07:36 UTC] PHP Notice:  Undefined variable: phn in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 179
+[07-Mar-2024 10:07:36 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 183
+[07-Mar-2024 10:07:36 UTC] PHP Notice:  Undefined variable: agency in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 187
+[07-Mar-2024 10:07:42 UTC] PHP Notice:  Undefined variable: lb in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 107
+[07-Mar-2024 10:07:42 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 111
+[07-Mar-2024 10:07:42 UTC] PHP Notice:  Undefined variable: agency_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 111
+[07-Mar-2024 10:07:42 UTC] PHP Notice:  Undefined variable: lb_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 111
+[07-Mar-2024 10:07:42 UTC] PHP Notice:  Trying to get property of non-object in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 115
+[07-Mar-2024 10:10:16 UTC] PHP Notice:  Undefined variable: name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[07-Mar-2024 10:10:16 UTC] PHP Notice:  Undefined variable: lname in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[07-Mar-2024 10:10:16 UTC] PHP Notice:  Undefined variable: desig in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 167
+[07-Mar-2024 10:10:16 UTC] PHP Notice:  Undefined variable: ut in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 171
+[07-Mar-2024 10:10:16 UTC] PHP Notice:  Undefined variable: phn in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 179
+[07-Mar-2024 10:10:16 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 183
+[07-Mar-2024 10:10:16 UTC] PHP Notice:  Undefined variable: agency in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 187
+[07-Mar-2024 10:13:54 UTC] PHP Notice:  Undefined variable: name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[07-Mar-2024 10:13:54 UTC] PHP Notice:  Undefined variable: lname in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[07-Mar-2024 10:13:54 UTC] PHP Notice:  Undefined variable: desig in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 167
+[07-Mar-2024 10:13:54 UTC] PHP Notice:  Undefined variable: ut in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 171
+[07-Mar-2024 10:13:54 UTC] PHP Notice:  Undefined variable: phn in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 179
+[07-Mar-2024 10:13:54 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 183
+[07-Mar-2024 10:13:54 UTC] PHP Notice:  Undefined variable: agency in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 187
+[07-Mar-2024 10:15:41 UTC] PHP Notice:  Undefined variable: name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[07-Mar-2024 10:15:41 UTC] PHP Notice:  Undefined variable: lname in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[07-Mar-2024 10:15:41 UTC] PHP Notice:  Undefined variable: desig in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 167
+[07-Mar-2024 10:15:41 UTC] PHP Notice:  Undefined variable: ut in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 171
+[07-Mar-2024 10:15:41 UTC] PHP Notice:  Undefined variable: phn in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 179
+[07-Mar-2024 10:15:41 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 183
+[07-Mar-2024 10:15:41 UTC] PHP Notice:  Undefined variable: agency in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 187
+[07-Mar-2024 10:16:28 UTC] PHP Notice:  Undefined variable: name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[07-Mar-2024 10:16:28 UTC] PHP Notice:  Undefined variable: lname in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[07-Mar-2024 10:16:28 UTC] PHP Notice:  Undefined variable: desig in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 167
+[07-Mar-2024 10:16:28 UTC] PHP Notice:  Undefined variable: ut in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 171
+[07-Mar-2024 10:16:28 UTC] PHP Notice:  Undefined variable: phn in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 179
+[07-Mar-2024 10:16:28 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 183
+[07-Mar-2024 10:16:28 UTC] PHP Notice:  Undefined variable: agency in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 187
+[11-Mar-2024 07:25:44 UTC] PHP Notice:  Undefined variable: lb in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 107
+[11-Mar-2024 07:25:44 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 111
+[11-Mar-2024 07:25:44 UTC] PHP Notice:  Undefined variable: agency_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 111
+[11-Mar-2024 07:25:44 UTC] PHP Notice:  Undefined variable: lb_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 111
+[11-Mar-2024 07:25:44 UTC] PHP Notice:  Trying to get property of non-object in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 115
+[11-Mar-2024 07:26:05 UTC] PHP Notice:  Undefined variable: lb in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingfilter.php on line 99
+[11-Mar-2024 07:26:05 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingfilter.php on line 105
+[11-Mar-2024 07:26:05 UTC] PHP Notice:  Undefined variable: agency_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingfilter.php on line 105
+[11-Mar-2024 07:26:05 UTC] PHP Notice:  Undefined variable: lb in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingfilter.php on line 105
+[11-Mar-2024 07:26:05 UTC] PHP Notice:  Trying to get property of non-object in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingfilter.php on line 109
+[18-Mar-2024 08:07:09 UTC] PHP Notice:  Undefined variable: name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[18-Mar-2024 08:07:09 UTC] PHP Notice:  Undefined variable: lname in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[18-Mar-2024 08:07:09 UTC] PHP Notice:  Undefined variable: desig in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 167
+[18-Mar-2024 08:07:09 UTC] PHP Notice:  Undefined variable: ut in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 171
+[18-Mar-2024 08:07:09 UTC] PHP Notice:  Undefined variable: phn in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 179
+[18-Mar-2024 08:07:09 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 183
+[18-Mar-2024 08:07:09 UTC] PHP Notice:  Undefined variable: agency in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 187
+[18-Mar-2024 08:07:22 UTC] PHP Notice:  Undefined variable: lb in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingfilter.php on line 99
+[18-Mar-2024 08:07:22 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingfilter.php on line 105
+[18-Mar-2024 08:07:22 UTC] PHP Notice:  Undefined variable: agency_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingfilter.php on line 105
+[18-Mar-2024 08:07:22 UTC] PHP Notice:  Undefined variable: lb in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingfilter.php on line 105
+[18-Mar-2024 08:07:22 UTC] PHP Notice:  Trying to get property of non-object in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingfilter.php on line 109
+[18-Mar-2024 08:07:43 UTC] PHP Notice:  Undefined variable: lb in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 107
+[18-Mar-2024 08:07:43 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 111
+[18-Mar-2024 08:07:43 UTC] PHP Notice:  Undefined variable: agency_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 111
+[18-Mar-2024 08:07:43 UTC] PHP Notice:  Undefined variable: lb_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 111
+[18-Mar-2024 08:07:43 UTC] PHP Notice:  Trying to get property of non-object in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 115
+[19-Mar-2024 09:19:56 UTC] PHP Notice:  Undefined variable: lb in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 107
+[19-Mar-2024 09:19:56 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 111
+[19-Mar-2024 09:19:56 UTC] PHP Notice:  Undefined variable: agency_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 111
+[19-Mar-2024 09:19:56 UTC] PHP Notice:  Undefined variable: lb_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 111
+[19-Mar-2024 09:19:56 UTC] PHP Notice:  Trying to get property of non-object in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 115
+[19-Mar-2024 10:25:51 UTC] PHP Notice:  Undefined index: sid in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/ssession.php on line 3
+[20-Mar-2024 08:15:41 UTC] PHP Notice:  Undefined index: sid in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/ssession.php on line 3
+[20-Mar-2024 10:14:36 UTC] PHP Notice:  Undefined variable: name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[20-Mar-2024 10:14:36 UTC] PHP Notice:  Undefined variable: lname in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[20-Mar-2024 10:14:36 UTC] PHP Notice:  Undefined variable: desig in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 167
+[20-Mar-2024 10:14:36 UTC] PHP Notice:  Undefined variable: ut in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 171
+[20-Mar-2024 10:14:36 UTC] PHP Notice:  Undefined variable: phn in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 179
+[20-Mar-2024 10:14:36 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 183
+[20-Mar-2024 10:14:36 UTC] PHP Notice:  Undefined variable: agency in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 187
+[20-Mar-2024 15:25:29 UTC] PHP Notice:  Undefined variable: lb in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 107
+[20-Mar-2024 15:25:29 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 111
+[20-Mar-2024 15:25:29 UTC] PHP Notice:  Undefined variable: agency_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 111
+[20-Mar-2024 15:25:29 UTC] PHP Notice:  Undefined variable: lb_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 111
+[20-Mar-2024 15:25:29 UTC] PHP Notice:  Trying to get property of non-object in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 115
+[20-Mar-2024 15:40:31 UTC] PHP Notice:  Undefined variable: lb in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 107
+[20-Mar-2024 15:40:31 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 111
+[20-Mar-2024 15:40:31 UTC] PHP Notice:  Undefined variable: agency_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 111
+[20-Mar-2024 15:40:31 UTC] PHP Notice:  Undefined variable: lb_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 111
+[20-Mar-2024 15:40:31 UTC] PHP Notice:  Trying to get property of non-object in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 115
+[20-Mar-2024 15:43:41 UTC] PHP Notice:  Undefined variable: name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[20-Mar-2024 15:43:41 UTC] PHP Notice:  Undefined variable: lname in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[20-Mar-2024 15:43:41 UTC] PHP Notice:  Undefined variable: desig in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 167
+[20-Mar-2024 15:43:41 UTC] PHP Notice:  Undefined variable: ut in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 171
+[20-Mar-2024 15:43:41 UTC] PHP Notice:  Undefined variable: phn in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 179
+[20-Mar-2024 15:43:41 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 183
+[20-Mar-2024 15:43:41 UTC] PHP Notice:  Undefined variable: agency in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 187
+[20-Mar-2024 16:51:21 UTC] PHP Notice:  Undefined variable: name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[20-Mar-2024 16:51:21 UTC] PHP Notice:  Undefined variable: lname in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[20-Mar-2024 16:51:21 UTC] PHP Notice:  Undefined variable: desig in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 167
+[20-Mar-2024 16:51:21 UTC] PHP Notice:  Undefined variable: ut in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 171
+[20-Mar-2024 16:51:21 UTC] PHP Notice:  Undefined variable: phn in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 179
+[20-Mar-2024 16:51:21 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 183
+[20-Mar-2024 16:51:21 UTC] PHP Notice:  Undefined variable: agency in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 187
+[20-Mar-2024 16:52:28 UTC] PHP Notice:  Undefined variable: name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[20-Mar-2024 16:52:28 UTC] PHP Notice:  Undefined variable: lname in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[20-Mar-2024 16:52:28 UTC] PHP Notice:  Undefined variable: desig in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 167
+[20-Mar-2024 16:52:28 UTC] PHP Notice:  Undefined variable: ut in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 171
+[20-Mar-2024 16:52:28 UTC] PHP Notice:  Undefined variable: phn in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 179
+[20-Mar-2024 16:52:28 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 183
+[20-Mar-2024 16:52:28 UTC] PHP Notice:  Undefined variable: agency in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 187
+[20-Mar-2024 16:56:16 UTC] PHP Notice:  Undefined variable: lb in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingfilter.php on line 99
+[20-Mar-2024 16:56:16 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingfilter.php on line 105
+[20-Mar-2024 16:56:16 UTC] PHP Notice:  Undefined variable: agency_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingfilter.php on line 105
+[20-Mar-2024 16:56:16 UTC] PHP Notice:  Undefined variable: lb in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingfilter.php on line 105
+[20-Mar-2024 16:56:16 UTC] PHP Notice:  Trying to get property of non-object in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingfilter.php on line 109
+[20-Mar-2024 16:56:44 UTC] PHP Notice:  Undefined variable: lb in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingstatusfilter.php on line 107
+[20-Mar-2024 16:56:44 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingstatusfilter.php on line 111
+[20-Mar-2024 16:56:44 UTC] PHP Notice:  Undefined variable: agency_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingstatusfilter.php on line 111
+[20-Mar-2024 16:56:44 UTC] PHP Notice:  Undefined variable: lb_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingstatusfilter.php on line 111
+[20-Mar-2024 16:56:44 UTC] PHP Notice:  Trying to get property of non-object in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingstatusfilter.php on line 115
+[20-Mar-2024 17:08:46 UTC] PHP Notice:  Undefined variable: name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[20-Mar-2024 17:08:46 UTC] PHP Notice:  Undefined variable: lname in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[20-Mar-2024 17:08:46 UTC] PHP Notice:  Undefined variable: desig in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 167
+[20-Mar-2024 17:08:46 UTC] PHP Notice:  Undefined variable: ut in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 171
+[20-Mar-2024 17:08:46 UTC] PHP Notice:  Undefined variable: phn in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 179
+[20-Mar-2024 17:08:46 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 183
+[20-Mar-2024 17:08:46 UTC] PHP Notice:  Undefined variable: agency in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 187
+[20-Mar-2024 17:12:23 UTC] PHP Notice:  Undefined variable: name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[20-Mar-2024 17:12:23 UTC] PHP Notice:  Undefined variable: lname in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[20-Mar-2024 17:12:23 UTC] PHP Notice:  Undefined variable: desig in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 167
+[20-Mar-2024 17:12:23 UTC] PHP Notice:  Undefined variable: ut in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 171
+[20-Mar-2024 17:12:23 UTC] PHP Notice:  Undefined variable: phn in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 179
+[20-Mar-2024 17:12:23 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 183
+[20-Mar-2024 17:12:23 UTC] PHP Notice:  Undefined variable: agency in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 187
+[20-Mar-2024 17:26:48 UTC] PHP Notice:  Undefined variable: q in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 57
+[20-Mar-2024 17:26:48 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 57
+[20-Mar-2024 17:27:03 UTC] PHP Notice:  Undefined variable: q in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 57
+[20-Mar-2024 17:27:03 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 57
+[20-Mar-2024 17:29:06 UTC] PHP Notice:  Undefined variable: name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 192
+[20-Mar-2024 17:29:06 UTC] PHP Notice:  Undefined variable: lname in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 192
+[20-Mar-2024 17:29:06 UTC] PHP Notice:  Undefined variable: desig in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 194
+[20-Mar-2024 17:29:06 UTC] PHP Notice:  Undefined variable: ut in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 198
+[20-Mar-2024 17:29:06 UTC] PHP Notice:  Undefined variable: phn in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 206
+[20-Mar-2024 17:29:06 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 210
+[20-Mar-2024 17:29:06 UTC] PHP Notice:  Undefined variable: agency in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 214
+[20-Mar-2024 19:26:02 UTC] PHP Notice:  Undefined index: sid in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/ssession.php on line 3
+[21-Mar-2024 04:33:31 UTC] PHP Notice:  Undefined variable: name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[21-Mar-2024 04:33:31 UTC] PHP Notice:  Undefined variable: lname in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 165
+[21-Mar-2024 04:33:31 UTC] PHP Notice:  Undefined variable: desig in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 167
+[21-Mar-2024 04:33:31 UTC] PHP Notice:  Undefined variable: ut in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 171
+[21-Mar-2024 04:33:31 UTC] PHP Notice:  Undefined variable: phn in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 179
+[21-Mar-2024 04:33:31 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 183
+[21-Mar-2024 04:33:31 UTC] PHP Notice:  Undefined variable: agency in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 187
+[21-Mar-2024 04:33:35 UTC] PHP Notice:  Undefined variable: lb in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 107
+[21-Mar-2024 04:33:35 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 111
+[21-Mar-2024 04:33:35 UTC] PHP Notice:  Undefined variable: agency_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 111
+[21-Mar-2024 04:33:35 UTC] PHP Notice:  Undefined variable: lb_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 111
+[21-Mar-2024 04:33:35 UTC] PHP Notice:  Trying to get property of non-object in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/acceptancefilter.php on line 115
+[21-Mar-2024 04:33:40 UTC] PHP Notice:  Undefined variable: lb in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingfilter.php on line 99
+[21-Mar-2024 04:33:40 UTC] PHP Notice:  Undefined variable: aft_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingfilter.php on line 105
+[21-Mar-2024 04:33:40 UTC] PHP Notice:  Undefined variable: agency_name in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingfilter.php on line 105
+[21-Mar-2024 04:33:40 UTC] PHP Notice:  Undefined variable: lb in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingfilter.php on line 105
+[21-Mar-2024 04:33:40 UTC] PHP Notice:  Trying to get property of non-object in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/liftingfilter.php on line 109
+[21-Mar-2024 04:34:03 UTC] PHP Notice:  Undefined variable: lb in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/userfeefilter.php on line 127
+[21-Mar-2024 06:45:09 UTC] PHP Warning:  require_once(..\..\connection\connection.php): failed to open stream: No such file or directory in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 2
+[21-Mar-2024 06:45:09 UTC] PHP Fatal error:  require_once(): Failed opening required '..\..\connection\connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/secprofile.php on line 2
+[21-Mar-2024 06:46:57 UTC] PHP Warning:  require_once(..\..\connection\connection.php): failed to open stream: No such file or directory in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/choosedagency.php on line 2
+[21-Mar-2024 06:46:57 UTC] PHP Fatal error:  require_once(): Failed opening required '..\..\connection\connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/choosedagency.php on line 2

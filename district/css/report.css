@@ -1,0 +1,75 @@
+body {
+      font-family: Arial, Helvetica, sans-serif;
+       color: white;
+}
+/*-----------------------------------*/
+
+/*------------------------------------*/
+#b {
+    padding: 30px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 94.5%;
+    display: flex;
+    justify-content: center;
+    border: 1px solid #2C3950;
+    box-shadow: 0 7px 7px rgba(1, 1, 1, 1);
+}
+#b h2{
+    color: #2C3950;
+    margin:auto;
+    font-size: 18px;
+}
+
+#tb {
+    width: 50%;
+    left: 0;
+    right: 0;
+    border: 20px solid;
+    align: center;
+}
+#tb th{
+    color: #2C3950;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+}
+#tb tr{
+       padding: 15px;
+    color: #2C3950;
+    text-align: absolute;
+    font-weight: bold;
+}
+#tb td{
+       padding: 15px;
+    color: #2C3950;
+    text-align: absolute;
+    font-weight: bold;
+}
+
+
+#btn{
+  border: none;
+  cursor: pointer;
+  background-color: #2C3950;
+  color: white;
+  height: 100%;
+  width: 40%;
+  font-weight: bold;
+  font-size: 20px;
+  box-shadow: 0 7px 7px rgba(1, 1, 1, 1);
+}
+#btn:hover {
+     opacity: 0.8;
+     background-color: #2C3950;
+}
+#tbt{
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+}
+
+.hidden {
+            display: none;
+        }

@@ -1,0 +1,18 @@
+[31-Jan-2024 05:50:15 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/bcgovaapl8e3/public_html/flinkage/admin/agency/accept_agency.php on line 9
+[31-Jan-2024 05:51:24 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/bcgovaapl8e3/public_html/flinkage/admin/agency/accept_agency.php on line 9
+[31-Jan-2024 05:51:38 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/bcgovaapl8e3/public_html/flinkage/admin/agency/accept_agency.php on line 51
+[31-Jan-2024 06:25:40 UTC] PHP Notice:  Undefined variable: query in /home/bcgovaapl8e3/public_html/flinkage/admin/agency/manage_agency.php on line 296
+[31-Jan-2024 06:25:40 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bcgovaapl8e3/public_html/flinkage/admin/agency/manage_agency.php on line 296
+[31-Jan-2024 06:25:40 UTC] PHP Notice:  Trying to get property of non-object in /home/bcgovaapl8e3/public_html/flinkage/admin/agency/manage_agency.php on line 312
+[31-Jan-2024 06:28:04 UTC] PHP Notice:  Undefined variable: query in /home/bcgovaapl8e3/public_html/flinkage/admin/agency/manage_agency.php on line 296
+[31-Jan-2024 06:28:04 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bcgovaapl8e3/public_html/flinkage/admin/agency/manage_agency.php on line 296
+[31-Jan-2024 06:28:04 UTC] PHP Notice:  Trying to get property of non-object in /home/bcgovaapl8e3/public_html/flinkage/admin/agency/manage_agency.php on line 312
+[31-Jan-2024 06:28:13 UTC] PHP Notice:  Undefined variable: quer in /home/bcgovaapl8e3/public_html/flinkage/admin/agency/manage_agency.php on line 591
+[31-Jan-2024 06:28:13 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bcgovaapl8e3/public_html/flinkage/admin/agency/manage_agency.php on line 591
+[31-Jan-2024 06:28:13 UTC] PHP Notice:  Trying to get property of non-object in /home/bcgovaapl8e3/public_html/flinkage/admin/agency/manage_agency.php on line 623
+[31-Jan-2024 06:30:11 UTC] PHP Notice:  Undefined variable: quer in /home/bcgovaapl8e3/public_html/flinkage/admin/agency/manage_agency.php on line 591
+[31-Jan-2024 06:30:11 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bcgovaapl8e3/public_html/flinkage/admin/agency/manage_agency.php on line 591
+[31-Jan-2024 06:30:11 UTC] PHP Notice:  Trying to get property of non-object in /home/bcgovaapl8e3/public_html/flinkage/admin/agency/manage_agency.php on line 623
+[31-Jan-2024 06:30:19 UTC] PHP Notice:  Undefined variable: query in /home/bcgovaapl8e3/public_html/flinkage/admin/agency/manage_agency.php on line 591
+[31-Jan-2024 06:30:19 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bcgovaapl8e3/public_html/flinkage/admin/agency/manage_agency.php on line 591
+[31-Jan-2024 06:30:19 UTC] PHP Notice:  Trying to get property of non-object in /home/bcgovaapl8e3/public_html/flinkage/admin/agency/manage_agency.php on line 623

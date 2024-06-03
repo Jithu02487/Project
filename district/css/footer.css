@@ -1,0 +1,29 @@
+#z {
+    background-color: #2d2c2c;
+    color: #ffffff;
+    position: fixed;
+    bottom: 0;
+    padding: 3px;
+    width: 98.5%;
+    margin-top: 20%;
+ }
+#z table{
+    width: 100%;
+    left: 100px;
+    right: 10px;
+    border-collapse: collapse;
+    align: center;
+    border: 1px solid #2C3950;
+    
+}
+#z .right {
+    text-align: right;
+}
+#z .right {
+    text-align: right;
+}
+#z img {
+    width:auto;
+    height: 60px;
+   
+  }

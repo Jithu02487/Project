@@ -1,0 +1,91 @@
+.card:hover {
+  background-color: #e4e5e6; /* Change the background color on hover */
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2); /* Add a shadow on hover */
+  transform: scale(1.05); /* Scale the card slightly on hover */
+  transition: 0.3s; /* Add a smooth transition effect */
+  cursor: pointer;
+}
+.bg-infoo {
+    background-color: #72e2ea; /* Replace with your desired color code */
+  }
+  .font-black {
+    color: #000;
+  }
+  .card-title:hover {
+    color: #470bde; /* Change the color on hover (blue in this example) */
+  }
+  .custom-bg-teal {
+    background-color: #cdda3f82; /* Teal color code */
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    position: relative;
+  }
+  .content {
+    min-height: 100vh;
+  }
+  .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40; /* Set the background color of the footer */
+    color: #ffffff; /* Set the text color of the footer */
+    padding: 10px 0; /* Adjust padding as needed */
+    transition: transform 0.3s ease; /* Smooth transition effect */
+  }
+  /* #9aeabb */
+  .data-column {
+    width: 30%; /* Adjust the width as needed */
+    background-color: #343a40; /* Set the background color of the data column */
+    padding: 20px;
+  }
+  .content {
+    min-height: calc(100vh - 60px); /* Adjust for the height of the header and footer */
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-repeat: no-repeat;
+  }
+  body {
+    background-color: white;
+    /* background-image: url('i1.jpg'); Set the background image URL */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  .card-link:focus {
+    outline: none;
+  }
+
+  /* styles.css */
+/* table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #ddd;
+} */
+
+  
+  
+  
+/* Add a CSS rule to set the font color to black for the navigation links */
+.nav-link.font-black {
+  color: black;
+}

@@ -1,0 +1,2 @@
+[31-Jan-2024 08:04:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/assets/setup/db.inc.php on line 6
+[31-Jan-2024 08:05:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bcgovaapl8e3/public_html/flinkage/secretary/html/assets/setup/db.inc.php on line 6

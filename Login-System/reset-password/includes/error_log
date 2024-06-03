@@ -1,0 +1,20 @@
+[29-Jan-2024 10:13:40 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/bcgovaapl8e3/public_html/flinkage/Login-System/reset-password/includes/sendtoken.inc.php on line 291
+[29-Jan-2024 10:14:46 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/bcgovaapl8e3/public_html/flinkage/Login-System/reset-password/includes/sendtoken.inc.php on line 312
+[29-Jan-2024 14:06:12 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/bcgovaapl8e3/public_html/flinkage/Login-System/reset-password/includes/sendtoken.inc.php on line 312
+[29-Jan-2024 15:28:03 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/bcgovaapl8e3/public_html/flinkage/Login-System/reset-password/includes/sendtoken.inc.php on line 312
+[29-Jan-2024 15:29:57 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/bcgovaapl8e3/public_html/flinkage/Login-System/reset-password/includes/sendtoken.inc.php on line 312
+[29-Jan-2024 15:30:01 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/bcgovaapl8e3/public_html/flinkage/Login-System/reset-password/includes/sendtoken.inc.php on line 312
+[29-Jan-2024 15:36:30 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/bcgovaapl8e3/public_html/flinkage/Login-System/reset-password/includes/sendtoken.inc.php on line 287
+[29-Jan-2024 15:37:13 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/bcgovaapl8e3/public_html/flinkage/Login-System/reset-password/includes/sendtoken.inc.php on line 317
+[29-Jan-2024 15:37:16 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/bcgovaapl8e3/public_html/flinkage/Login-System/reset-password/includes/sendtoken.inc.php on line 317
+[29-Jan-2024 15:37:38 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/bcgovaapl8e3/public_html/flinkage/Login-System/reset-password/includes/sendtoken.inc.php on line 317
+[29-Jan-2024 15:37:40 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/bcgovaapl8e3/public_html/flinkage/Login-System/reset-password/includes/sendtoken.inc.php on line 317
+[29-Jan-2024 15:38:15 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/bcgovaapl8e3/public_html/flinkage/Login-System/reset-password/includes/sendtoken.inc.php on line 317
+[29-Jan-2024 16:16:32 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/bcgovaapl8e3/public_html/flinkage/Login-System/reset-password/includes/sendtoken.inc.php on line 317
+[29-Jan-2024 16:17:31 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/bcgovaapl8e3/public_html/flinkage/Login-System/reset-password/includes/sendtoken.inc.php on line 317
+[29-Jan-2024 16:17:50 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/bcgovaapl8e3/public_html/flinkage/Login-System/reset-password/includes/sendtoken.inc.php on line 317
+[29-Jan-2024 16:17:58 UTC] PHP Fatal error:  Class 'SMTP' not found in /home/bcgovaapl8e3/public_html/flinkage/Login-System/reset-password/includes/sendtoken.inc.php on line 317
+[29-Jan-2024 16:36:55 UTC] PHP Notice:  Use of undefined constant “smtp” - assumed '“smtp”' in /home/bcgovaapl8e3/public_html/flinkage/Login-System/reset-password/includes/sendtoken.inc.php on line 290
+[29-Jan-2024 16:41:31 UTC] PHP Notice:  Use of undefined constant “smtp” - assumed '“smtp”' in /home/bcgovaapl8e3/public_html/flinkage/Login-System/reset-password/includes/sendtoken.inc.php on line 290
+[29-Jan-2024 16:43:31 UTC] PHP Notice:  Use of undefined constant “smtp” - assumed '“smtp”' in /home/bcgovaapl8e3/public_html/flinkage/Login-System/reset-password/includes/sendtoken.inc.php on line 290
+[29-Jan-2024 16:45:53 UTC] PHP Notice:  Use of undefined constant “smtp” - assumed '“smtp”' in /home/bcgovaapl8e3/public_html/flinkage/Login-System/reset-password/includes/sendtoken.inc.php on line 290

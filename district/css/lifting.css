@@ -1,0 +1,136 @@
+ body {
+      background-color: #E0B44A;
+}
+/*-----------------------------------*/
+#a {
+   background-color: #F3EAD8;
+   text-align: center;
+   padding: 10px;
+   margin-bottom: 10px;
+   border-radius: 20px;
+   box-shadow: 0 7px 7px rgba(1, 1, 1, 1);
+}
+#a h1 {
+    margin: auto;
+    display: inline-block;
+    color: #982608;
+}
+/*------------------------------------*/
+#b {
+   background-color: #F3EAD8;
+   text-align: center;
+   padding: 1px;
+   margin-bottom: 10px;
+   border-radius: 20px;
+   box-shadow: 0 7px 7px rgba(1, 1, 1, 1);
+}
+#b button {
+  background-color: #982608;
+  color: white;
+  padding: 1px 1px;
+  margin: 1px 0;
+  border: none;
+  cursor: pointer;
+  width: 5%;
+  border-radius: 50px;
+}
+#b button:hover {
+     opacity: 0.8;
+     background-color: #982608;
+}
+/*------------------------------------*/
+#c {
+   background-color: #EFD7B8;
+   text-align: center;
+   color: #982608;
+   padding: 1px;
+   margin-bottom: 10px;
+   border-radius: 20px;
+   box-shadow: 0 7px 7px rgba(1, 1, 1, 1);
+}
+
+#c button {
+  background-color: #982608;
+    color: white;
+  padding: 1px 1px;
+  margin: 1px 0;
+  border: none;
+  cursor: pointer;
+  width: 5%;
+  border-radius: 50px;
+    
+}
+
+#c button:hover {
+     opacity: 0.8;
+     background-color: #982608;
+}
+#c h2 {
+    color: #982608;
+}
+/*------------------------------------------------*/
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #333;
+    font-family: "Times New Roman", Times, serif;
+}
+/* Style table headers (th) */
+th {
+    background-color: #333;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    text-align: left;
+}
+/* Style table headers (th) */
+th {
+    background-color: #333;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #000; /* Add a border */
+}
+
+/* Style table rows (tr) */
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+/* Style table cells (td) */
+td {
+    padding: 8px;
+    border: 1px solid #000; /* Add a border */
+    text-align: left;
+}
+
+/* Hover effect on rows */
+tr:hover {
+    background-color: #ddd;
+}
+/*-----------------------------------------*/
+/* Style the dropdown container */
+select {
+    padding: 1px;
+    font-size: 16px;
+    border: 2px solid #555;
+    border-radius: 50px;
+    background-color: #fff;
+    color: #333;
+}
+
+/* Style the dropdown options */
+select option {
+    background-color: #fff;
+    color: #333;
+    font-size: 14px;
+    padding: 1px;
+}
+/* Style the selected option */
+select option:checked {
+    background-color: #0077CC;
+    color: #FFF;
+

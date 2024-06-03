@@ -1,0 +1,33 @@
+[10-Feb-2024 10:20:12 UTC] PHP Notice:  Undefined index: email in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 57
+[10-Feb-2024 10:20:12 UTC] PHP Notice:  Undefined variable: mysqli in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 59
+[10-Feb-2024 10:20:12 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 59
+[10-Feb-2024 10:20:13 UTC] PHP Notice:  Undefined index: email in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 57
+[10-Feb-2024 10:20:13 UTC] PHP Notice:  Undefined variable: mysqli in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 59
+[10-Feb-2024 10:20:13 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 59
+[10-Feb-2024 10:20:22 UTC] PHP Notice:  Undefined index: email in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 57
+[10-Feb-2024 10:20:22 UTC] PHP Notice:  Undefined variable: mysqli in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 59
+[10-Feb-2024 10:20:22 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 59
+[10-Feb-2024 10:20:39 UTC] PHP Notice:  Undefined variable: mysqli in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 59
+[10-Feb-2024 10:20:39 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 59
+[10-Feb-2024 10:21:27 UTC] PHP Notice:  Undefined variable: mysqli in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 59
+[10-Feb-2024 10:21:27 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 59
+[10-Feb-2024 10:21:30 UTC] PHP Notice:  Undefined index: email in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 57
+[10-Feb-2024 10:21:30 UTC] PHP Notice:  Undefined variable: mysqli in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 59
+[10-Feb-2024 10:21:30 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 59
+[10-Feb-2024 10:21:40 UTC] PHP Notice:  Undefined variable: mysqli in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 59
+[10-Feb-2024 10:21:40 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 59
+[10-Feb-2024 10:23:07 UTC] PHP Notice:  Undefined variable: mysqli in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 59
+[10-Feb-2024 10:23:07 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 59
+[10-Feb-2024 10:23:10 UTC] PHP Notice:  Undefined variable: mysqli in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 59
+[10-Feb-2024 10:23:10 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 59
+[10-Feb-2024 10:24:29 UTC] PHP Notice:  Undefined variable: mysqli in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 60
+[10-Feb-2024 10:24:29 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 60
+[10-Feb-2024 10:24:43 UTC] PHP Notice:  Undefined variable: mysqli in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 60
+[10-Feb-2024 10:24:43 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/bcgovaapl8e3/public_html/flinkage/admin/reset.php on line 60
+[10-Feb-2024 17:23:22 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/bcgovaapl8e3/public_html/flinkage/admin/resetpass.php on line 26
+[10-Feb-2024 17:24:19 UTC] PHP Notice:  Undefined variable: firstName in /home/bcgovaapl8e3/public_html/flinkage/admin/resetpass.php on line 5
+[10-Feb-2024 17:27:20 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/bcgovaapl8e3/public_html/flinkage/admin/resetpass.php on line 15
+[10-Feb-2024 18:49:21 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/bcgovaapl8e3/public_html/flinkage/admin/resetpass.php on line 54
+[10-Feb-2024 19:07:43 UTC] PHP Notice:  Undefined index: email in /home/bcgovaapl8e3/public_html/flinkage/admin/resetpass.php on line 8
+[11-Mar-2024 17:43:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bcgovaapl8e3/public_html/flinkage/admin/admin_dashboard.php:370) in /home/bcgovaapl8e3/public_html/flinkage/admin/admin_dashboard.php on line 371
+[11-Mar-2024 17:52:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bcgovaapl8e3/public_html/flinkage/admin/admin_dashboard.php:370) in /home/bcgovaapl8e3/public_html/flinkage/admin/admin_dashboard.php on line 371

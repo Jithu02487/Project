@@ -1,0 +1,7 @@
+[11-Mar-2024 18:19:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/bcgovaapl8e3/public_html/flinkage/Login-System/assets/layouts/header1.php on line 5
+[11-Mar-2024 18:30:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/bcgovaapl8e3/public_html/flinkage/Login-System/assets/layouts/header.php on line 3
+[11-Mar-2024 18:31:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/bcgovaapl8e3/public_html/flinkage/Login-System/assets/layouts/header.php on line 3
+[11-Mar-2024 18:32:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/bcgovaapl8e3/public_html/flinkage/Login-System/assets/layouts/header.php on line 3
+[11-Mar-2024 18:34:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/bcgovaapl8e3/public_html/flinkage/Login-System/assets/layouts/header.php on line 3
+[11-Mar-2024 18:34:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/bcgovaapl8e3/public_html/flinkage/Login-System/assets/layouts/header.php on line 3
+[20-Mar-2024 16:50:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/bcgovaapl8e3/public_html/flinkage/Login-System/assets/layouts/header.php on line 3
